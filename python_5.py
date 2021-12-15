@@ -107,7 +107,7 @@ for p in range(1, number_of_symbols + 1):
     p_list += random_character
    
 print(p_list)
-# mixing orders with letters, characters and numvers
+# mixing orders with letters, characters and numbers
 random.shuffle(p_list)
 print(p_list)
 
