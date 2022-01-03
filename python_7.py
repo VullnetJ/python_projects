@@ -55,11 +55,6 @@ print(f"Fully matched is: {guess + guess1}")
 # y.start()
 
 
-
-
-
-
-
 # z = threading.Thread(target = study, args=())
 # z.start()
 
@@ -67,11 +62,6 @@ print(f"Fully matched is: {guess + guess1}")
 # eat()
 # drink()
 # study()
-
-
-
-
-
 
 
 # slicing = guess[0]
